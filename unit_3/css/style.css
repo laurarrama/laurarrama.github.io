@@ -5,4 +5,19 @@ body {
 h1, p {
     color: white;
     text-align: center;
+    padding: 10px 5px 15px 20px
+}
+
+h1 {
+	font-family: Helvetica;
+	font-style: bold;
+	font-size: 46px
+}
+
+p {
+	color: white;
+}
+
+#contact {
+	text-align: right
 }
