@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Zilla+Slab:300');
+
 body {
     background-color: pink;
 }
@@ -6,15 +8,17 @@ h1, p {
     color: white;
     text-align: center;
     padding: 10px 5px 15px 20px
+    font-family: 'Zilla Slab', serif;
 }
 
 h1 {
-	font-family: Helvetica;
+	font-family: 'Montserrat', sans-serif;
 	font-style: bold;
 	font-size: 46px
 }
 
 p {
+	font-family: 'Zilla Slab', serif;
 	color: white;
 }
 
